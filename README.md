@@ -52,6 +52,7 @@ Testing*
 .Make sure to include the JWT token in the Authorization header for authenticated endpoints.
 
 Further Development*
+
 Add error handling and input validation to improve the API's robustness.
 
 Implement middleware for authentication and authorization.

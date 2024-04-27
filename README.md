@@ -18,7 +18,9 @@ This API allows you to manage books with user authentication.
    -Start the MongoDB server if it's not already running.
    
  5.Set Environment Variables:
+ 
    -Create a .env file in the root directory with the following variables:
+   
     MONGODB_URI=mongodb://localhost:27017/book_management
     JWT_SECRET=your_secret_key
     
